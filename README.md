@@ -109,3 +109,26 @@ The chatbot contains the following layers:
 - Frequent timeout errors if dataset size increased  
 - Positive recommendation scenario (example):
 
+
+Destination: Gangtok
+Duration: 7 nights
+Package: Deluxe
+Origin: New Delhi
+Budget: 36000 INR
+
+
+---
+
+## Future Enhancements
+
+- Expand dataset size (with optimized query handling)  
+- Fuzzy matching & alternative recommendations  
+- Richer UI with better conversation management  
+
+---
+
+## Tech Stack
+
+- Python  
+- Flask  
+- OpenAI API (LLMs)  
